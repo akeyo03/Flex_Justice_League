@@ -5,3 +5,5 @@
 134533
 127808
 136745
+
+The lexer is a code superhero that scans and categorizes input tokens with precision. It identifies numbers, strings, special characters, and even palindromes, handling mixed tokens gracefully. The lexer ensures code integrity, safeguarding your project with its vigilant oversight.
